@@ -262,7 +262,7 @@ Notes eidt by `Mingming Guo` (www.guomm.top)
   * https://www.nature.com/naturejobs/science/articles/10.1038/nj7281-696a
 * **_How Do I Apply for a Postdoc Position?_**
   * https://med.emory.edu/postdoc/documents/How%20do%20I%20apply%20for%20a%20Postdoc%20Position.pdf
-#### Cover letters and CVs
+### Cover letters and CVs
 * **_How to write a killer cover letter for a postdoctoral application_** by Bill Sullivan
   * http://www.asbmb.org/asbmbtoday/asbmbtoday_article.aspx?id=48927
 * *CVs and Cover Letters* by Office of Career Services - Harvard University 
