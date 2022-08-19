@@ -9,7 +9,7 @@ First of all, you need a theme. Let's say you want to study how transformers are
 
 If you don't have a topic in mind, you can also choose a trending article using 42 Papers or [**_Daily Papers_**](https://papers.labml.ai/papers/daily ) — this is a tool that shows all trending articles on Twitter.
 
-### Tiếp cận các paper
+### Access the paper
 You now have a few materials on your waiting list, but please don't read them all one by one. Instead, try the approach I suggest below, it can save you a lot of time:
 
 - First, I will **_check all the documents at once and confirm that the article is worth reading or not_**. If the article references several inappropriate sources, that's probably not a good sign. Likewise, a quick tip to help figure out if an article is worth reading is to visualize the sources cited in the article. To do this, you can use a tool called [**_Connected Papers_**](https://www.connectedpapers.com/) to graph the connections between all the references in the document. paper, just enter the name of that paper. Why is checking source important? If the sources are connected and well known, this paper is trustworthy! Of course, this is just a subjective indication of whether an article should be read or not! Either way, you shouldn't completely judge an article based on its citation count.
@@ -23,7 +23,7 @@ You now have a few materials on your waiting list, but please don't read them al
 
 Now that you know how you approach the papers, let's move on to the recommended tools!
 
-### Các công cụ mà bất kỳ nhà khoa học dữ liệu/nhà nghiên cứu AI nào cũng nên có
+### Tools that any data scientist/AI researcher should have
 I have mentioned the search tools I use such as: Arxiv Sanity Preserver, 42 Papers, and Papers With Code, but these tools are not helpful in understanding an article. While understanding an article will depend a lot on how much you dig into it, I've found that quite a few people explain these materials on YouTube videos. Indeed, you can refer to the channels of [**_Yannic Kilcher_**](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew), [**_What's AI_**](https://www. youtube.com/c/WhatsAI), [**_Letitia_**](https://www.youtube.com/c/AICoffeeBreak), these channels dive into new research papers and explain them in a way clear. Of course, for a quick overview without diving into the theory, it is impossible not to mention [**_Two Minute Papers_**](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg ). This will save you a lot of time, which is why I usually start by watching the video of the article before reading it. What's even better is that thanks to the paper being posted on YouTube, you won't need to google it anymore. Using the Google Chrome add-on called [**_crossminds.ai_**](crossminds.ai), the video will appear directly on the Arxiv page of the article you want to read. Isn't that great?! You should try it, I'm sure this is the best thing of 2020 that I discovered.
 
 Similarly, using [**_Medium_**](https://medium.com/) is also a way to find paper abstracts and explanations for that paper whether it's a paper on Towards AI or Towards Data Science publications.
@@ -34,7 +34,7 @@ These are all my best tips and tools for finding the right research articles and
 
 After you find an article worth reading, you should save it in a reference management software like [**_Zotero_**](https://www.zotero.org/). The software is completely free and allows you to organize your papers, easily export references, save PDF files and more, all with a simple click. This is a handy tool that has been implemented in Word and Google Docs to automatically create your catalog.
 
-### Tóm tắt các công cụ:
+### Summary of tools:
 - [**42 Papers**](https://42papers.com/) — Find trending papers
 - [**Arxiv Sanity Preserver**](http://www.arxiv-sanity.com/) — Arxiv papers Arxiv papers
 - [**Papers With Code**](https://paperswithcode.com/) — Find papers with code to apply to specific tasks
