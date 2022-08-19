@@ -1,3 +1,5 @@
+Notes eidt by `Mingming Guo` (www.guomm.top)
+
 ## HOW TO READ MORE RESEARCH ARTICLES?
 
 ### How to find the right papers?
