@@ -2,7 +2,7 @@
 Reasons, motivations, and resources that help pursuing the doctoral degree in Computer Science.   
 Forked from [macoj](https://github.com/macoj/phd) with minor updates.
 
-Notes eidt by `Mingming Guo` (www.guomm.top)
+Notes eidt by `Mingming Guo` (www.guomm.top) 2022/08
 
 ## Contents
 - [On WHY (or why not)](#on-why-or-why-not-to-pursue-a-phd) 
